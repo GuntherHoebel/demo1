@@ -1,0 +1,18 @@
+.comments {
+  margin: auto;
+  margin-top:2rem;;
+  width: 90%;
+  max-width:1200px
+  
+}
+
+.comments > button {
+  font-size: 1.25rem;
+  background-color: #660000;
+  color:#fff;
+  border:1px solid #fff;
+  padding:5px 15px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius:7px;
+}

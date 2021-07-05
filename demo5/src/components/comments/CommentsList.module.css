@@ -1,0 +1,8 @@
+.comments {
+  list-style: none; 
+  margin: auto;
+  margin-top:2rem;;
+  width: 100%;
+  max-width:1200px;
+  padding: 0;
+}
